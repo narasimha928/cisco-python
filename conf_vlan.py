@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# create a vlan using RestAPI
 import requests
 import json
 requests.packages.urllib3.disable_warnings()
@@ -12,9 +13,10 @@ username = "admin"
 password = "insieme"
 
 
-payload=[
-  {"jsonrpc": "2.0","method": "cli","params": {"cmd": "vlan "+vlanId,"version": 1},"id": 2},
+payload = [
+    {"jsonrpc": "2.0", "method": "cli", "params": {"cmd": "vlan "+vlanId, "version": 1}, "id": 2},
 ]
 
-response = requests.post(url,data=json.dumps(payload), headers=myheaders,auth=(username,password),verify=False).json()
-print("Responce:",response)
+response = requests.post(url, data=json.dumps(payload), headers=myheaders,
+                         auth=(username, password), verify=False).json()
+print("Responce:", response)
