@@ -1,0 +1,55 @@
+[2020-04-26 15:18:59,679] +++ nexus9501 logfile learn/connection_nexus9501.txt +++
+[2020-04-26 15:18:59,679] +++ Unicon plugin nxos +++
+Trying 172.29.204.191...
+
+[2020-04-26 15:18:59,754] +++ connection to spawn: telnet 172.29.204.191 2039, id: 4538869584 +++
+[2020-04-26 15:18:59,754] connection to nexus9501
+Connected to 172.29.204.191.
+Escape character is '^]'.
+
+Password: 
+Login incorrect
+
+User Access Verification
+login: [2020-04-26 15:19:50,099] +++ nexus9501 logfile learn/connection_nexus9501.txt +++
+[2020-04-26 15:19:50,099] +++ Unicon plugin nxos +++
+Trying 172.29.204.191...
+
+[2020-04-26 15:19:50,156] +++ connection to spawn: telnet 172.29.204.191 2039, id: 4616394640 +++
+[2020-04-26 15:19:50,156] connection to nexus9501
+Connected to 172.29.204.191.
+Escape character is '^]'.
+
+User Access Verification
+wolfridge3 login: admin
+Password: 
+
+Cisco Nexus Operating System (NX-OS) Software
+TAC support: http://www.cisco.com/tac
+Copyright (C) 2002-2020, Cisco and/or its affiliates.
+All rights reserved.
+The copyrights to certain works contained in this software are
+owned by other third parties and used and distributed under their own
+licenses, such as open source.  This software is provided "as is," and unless
+otherwise stated, there is no warranty, express or implied, including but not
+limited to warranties of merchantability and fitness for a particular purpose.
+Certain components of this software are licensed under
+the GNU General Public License (GPL) version 2.0 or 
+GNU General Public License (GPL) version 3.0  or the GNU
+Lesser General Public License (LGPL) Version 2.1 or 
+Lesser General Public License (LGPL) Version 2.0. 
+A copy of each such license is available at
+http://www.opensource.org/licenses/gpl-2.0.php and
+http://opensource.org/licenses/gpl-3.0.html and
+http://www.opensource.org/licenses/lgpl-2.1.php and
+http://www.gnu.org/licenses/old-licenses/library.txt.
+wolfridge3# [2020-04-26 15:21:26,179] +++ nexus9501 logfile learn/connection_nexus9501.txt +++
+[2020-04-26 15:21:26,180] +++ Unicon plugin nxos +++
+Trying 172.29.204.191...
+
+[2020-04-26 15:21:26,234] +++ connection to spawn: telnet 172.29.204.191 2039, id: 4685584464 +++
+[2020-04-26 15:21:26,235] connection to nexus9501
+Connected to 172.29.204.191.
+Escape character is '^]'.
+
+wolfridge3# 

@@ -1,0 +1,114 @@
+[2020-04-26 15:44:40,936] +++ wolfridge3 logfile ./output1/connection_wolfridge3.txt +++
+[2020-04-26 15:44:40,936] +++ Unicon plugin nxos +++
+User Access Verification
+
+[2020-04-26 15:44:41,725] +++ connection to spawn: ssh -l admin 172.29.205.95, id: 4485213712 +++
+[2020-04-26 15:44:41,725] connection to wolfridge3
+Password: 
+
+Cisco Nexus Operating System (NX-OS) Software
+TAC support: http://www.cisco.com/tac
+Copyright (C) 2002-2020, Cisco and/or its affiliates.
+All rights reserved.
+The copyrights to certain works contained in this software are
+owned by other third parties and used and distributed under their own
+licenses, such as open source.  This software is provided "as is," and unless
+otherwise stated, there is no warranty, express or implied, including but not
+limited to warranties of merchantability and fitness for a particular purpose.
+Certain components of this software are licensed under
+the GNU General Public License (GPL) version 2.0 or 
+GNU General Public License (GPL) version 3.0  or the GNU
+Lesser General Public License (LGPL) Version 2.1 or 
+Lesser General Public License (LGPL) Version 2.0. 
+A copy of each such license is available at
+http://www.opensource.org/licenses/gpl-2.0.php and
+http://opensource.org/licenses/gpl-3.0.html and
+http://www.opensource.org/licenses/lgpl-2.1.php and
+http://www.gnu.org/licenses/old-licenses/library.txt.
+wolfridge3# 
+[2020-04-26 15:44:42,735] +++ initializing handle +++
+[2020-04-26 15:44:42,736] +++ wolfridge3: executing command 'term length 0' +++
+term length 0
+wolfridge3# 
+[2020-04-26 15:44:42,988] +++ wolfridge3: executing command 'term width 511' +++
+term width 511
+wolfridge3# 
+[2020-04-26 15:44:43,204] +++ wolfridge3: executing command 'terminal session-timeout 0' +++
+terminal session-timeout 0
+wolfridge3# 
+[2020-04-28 16:19:55,115] +++ wolfridge3 logfile ./output1/connection_wolfridge3.txt +++
+[2020-04-28 16:19:55,116] +++ Unicon plugin nxos +++
+User Access Verification
+
+[2020-04-28 16:19:55,771] +++ connection to spawn: ssh -l admin 172.29.205.95, id: 4564470224 +++
+[2020-04-28 16:19:55,771] connection to wolfridge3
+Password: 
+
+Cisco Nexus Operating System (NX-OS) Software
+TAC support: http://www.cisco.com/tac
+Copyright (C) 2002-2020, Cisco and/or its affiliates.
+All rights reserved.
+The copyrights to certain works contained in this software are
+owned by other third parties and used and distributed under their own
+licenses, such as open source.  This software is provided "as is," and unless
+otherwise stated, there is no warranty, express or implied, including but not
+limited to warranties of merchantability and fitness for a particular purpose.
+Certain components of this software are licensed under
+the GNU General Public License (GPL) version 2.0 or 
+GNU General Public License (GPL) version 3.0  or the GNU
+Lesser General Public License (LGPL) Version 2.1 or 
+Lesser General Public License (LGPL) Version 2.0. 
+A copy of each such license is available at
+http://www.opensource.org/licenses/gpl-2.0.php and
+http://opensource.org/licenses/gpl-3.0.html and
+http://www.opensource.org/licenses/lgpl-2.1.php and
+http://www.gnu.org/licenses/old-licenses/library.txt.
+wolfridge3# 
+[2020-04-28 16:19:56,536] +++ initializing handle +++
+[2020-04-28 16:19:56,539] +++ wolfridge3: executing command 'term length 0' +++
+term length 0
+wolfridge3# 
+[2020-04-28 16:19:56,754] +++ wolfridge3: executing command 'term width 511' +++
+term width 511
+wolfridge3# 
+[2020-04-28 16:19:56,954] +++ wolfridge3: executing command 'terminal session-timeout 0' +++
+terminal session-timeout 0
+wolfridge3# 
+[2020-04-28 16:29:31,978] +++ wolfridge3 logfile ./output1/connection_wolfridge3.txt +++
+[2020-04-28 16:29:31,978] +++ Unicon plugin nxos +++
+User Access Verification
+
+[2020-04-28 16:29:32,409] +++ connection to spawn: ssh -l admin 172.29.205.95, id: 4469202640 +++
+[2020-04-28 16:29:32,410] connection to wolfridge3
+Password: 
+
+Cisco Nexus Operating System (NX-OS) Software
+TAC support: http://www.cisco.com/tac
+Copyright (C) 2002-2020, Cisco and/or its affiliates.
+All rights reserved.
+The copyrights to certain works contained in this software are
+owned by other third parties and used and distributed under their own
+licenses, such as open source.  This software is provided "as is," and unless
+otherwise stated, there is no warranty, express or implied, including but not
+limited to warranties of merchantability and fitness for a particular purpose.
+Certain components of this software are licensed under
+the GNU General Public License (GPL) version 2.0 or 
+GNU General Public License (GPL) version 3.0  or the GNU
+Lesser General Public License (LGPL) Version 2.1 or 
+Lesser General Public License (LGPL) Version 2.0. 
+A copy of each such license is available at
+http://www.opensource.org/licenses/gpl-2.0.php and
+http://opensource.org/licenses/gpl-3.0.html and
+http://www.opensource.org/licenses/lgpl-2.1.php and
+http://www.gnu.org/licenses/old-licenses/library.txt.
+wolfridge3# 
+[2020-04-28 16:29:33,192] +++ initializing handle +++
+[2020-04-28 16:29:33,194] +++ wolfridge3: executing command 'term length 0' +++
+term length 0
+wolfridge3# 
+[2020-04-28 16:29:33,406] +++ wolfridge3: executing command 'term width 511' +++
+term width 511
+wolfridge3# 
+[2020-04-28 16:29:33,616] +++ wolfridge3: executing command 'terminal session-timeout 0' +++
+terminal session-timeout 0
+wolfridge3# 

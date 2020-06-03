@@ -1,0 +1,21 @@
+testbed:
+  name: alwaysonsbxs
+  credentials: 
+    default:
+      username: "admin"
+      password: "insieme"
+
+devices:
+  wolfridge3:
+    os: nxos
+    type: switch
+    connections:
+      defaults:
+        class: unicon.Unicon
+      ssh:
+        protocol: ssh 
+        ip: 172.29.205.95 
+
+
+
+

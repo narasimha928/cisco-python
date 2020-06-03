@@ -1,0 +1,3 @@
+[devices]
+r1 ansible_hostname=172.29.205.95
+r2 ansible_hostname=172.29.205.96
